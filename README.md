@@ -14,4 +14,4 @@
 ## 🙋‍♂️ Authors
 
 - **Matheus Antonino** - [MatheusTA](https://github.com/matheusTA)
-- **Matheus Silva** - [Maath-Lima](https://github.com/Maath-Lima)
+- **Matheus Lima** - [Maath-Lima](https://github.com/Maath-Lima)
