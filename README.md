@@ -9,3 +9,9 @@
 - 📦 This project uses a kaggle [dataset](https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis/code?select=train) that was downloaded to google drive, if you want to run it you will need to download the dataset to your google drive.
 
 - 🧰 Before running google colab cells, make sure the runtime is configured to run the project using the GPU. ambiente de execução > alterar tipo de ambiante de execução > acelerador de hardware
+
+
+## 🙋‍♂️ Authors
+
+- **Matheus Antonino** - [MatheusTA](https://github.com/matheusTA)
+- **Matheus Silva** - [Maath-Lima](https://github.com/Maath-Lima)
